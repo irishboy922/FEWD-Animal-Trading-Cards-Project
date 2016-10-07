@@ -1,0 +1,60 @@
+p,
+ul,
+li,
+h3 {
+	margin: 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+}
+
+body {
+	font-family: sans-serif;
+	color: #838792;
+
+}
+.trading-card {
+	width: 300px;
+	box-shadow: 6px 6px 1px #EFEFEF;
+	background-color: #FDFCFF;
+}
+
+.outline {
+	border: 1px solid #E2E2E2;
+	padding: 10px;
+}
+
+.information {
+	background-color: #fff;
+	font-size: 14px;
+}
+
+h3,
+img {
+	padding: 10px 0;
+}
+h3,
+span {
+	color: #414548;
+}
+
+.interesting-fact {
+	font-style: italic;
+	padding: 5px 0;
+}
+.interesting-fact,
+.description,
+li {
+	font-weight: 200;
+}
+
+ul {
+	padding: 10px 0 5px;
+}
+span {
+	font-weight: bold;
+}
+.description {
+	padding: 10px 0 15px;
+}
